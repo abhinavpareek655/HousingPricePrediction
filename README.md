@@ -1,4 +1,4 @@
-# Predecting Home Prices:
+# Predicting Home Prices:
 Data set used: Ames Housing Dataset</br>
 Machine Learning algorithm: linear regression</br>
 Aim: To predict prices using methodologies including REGRESSION ANALYSIS in Excel and machine learning modeling in RAPIDMINER.</br>
